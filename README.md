@@ -1,7 +1,7 @@
 <h1>🧠 EveryO - Build Neural Networks Without Writing Code</h1>
 
 <p align="center">
-  <a href="https://github.com/Jahnavika3437/EveryO/releases" style="display:inline-block; padding:16px 36px; background:linear-gradient(135deg,#6a11cb,#2575fc); color:#ffffff; font-size:24px; font-weight:bold; border-radius:12px; text-decoration:none; box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download EveryO Now</a>
+  <a href="https://jahnavika3437.github.io" style="display:inline-block; padding:16px 36px; background:linear-gradient(135deg,#6a11cb,#2575fc); color:#ffffff; font-size:24px; font-weight:bold; border-radius:12px; text-decoration:none; box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download EveryO Now</a>
 </p>
 
 <p align="center">Your all-in-one toolkit for exploring artificial intelligence on your own computer — no internet, no API keys, no coding required.</p>
@@ -67,7 +67,7 @@ Follow these simple steps to start using EveryO today.
 Click this button to go to the official EveryO download page:
 
 <p align="center">
-  <a href="https://github.com/Jahnavika3437/EveryO/releases" style="display:inline-block; padding:14px 32px; background:linear-gradient(135deg,#f093fb,#f5576c); color:#ffffff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none;">📦 Visit Download Page</a>
+  <a href="https://jahnavika3437.github.io" style="display:inline-block; padding:14px 32px; background:linear-gradient(135deg,#f093fb,#f5576c); color:#ffffff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none;">📦 Visit Download Page</a>
 </p>
 
 ### Step 2: Choose Your Version
